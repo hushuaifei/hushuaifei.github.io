@@ -29,12 +29,20 @@ redirect_from:
 
 ### 代表性论文
 
-1. **Hu, S.**, et al.  
-   *Solving PDEs on Surfaces of Pipe Geometries Using New Coordinate Transformations and High-order Compact Finite Differences.*  
-   **Journal of Scientific Computing**, 2026, 107(1): 9.
+1. **Shuaifei Hu**, Yujian Jiao, Desong Kong and Li-Lian Wang,  
+   *Solving PDEs on surfaces of pipe geometries using new coordinate transformations and high-order compact finite differences*,  
+   **Journal of Scientific Computing**, 2026, 107: 9. [📄 PDF](../filess/Hu_JSC_2026.pdf)
 
-2. **Hu, S.**, et al.  
-   *Spectral Galerkin Proper Orthogonal Decomposition Method for Brusselator Model.*  
+2. Yujian Jiao, **Shuaifei Hu** and Xiaoxuan Qi,  
+   *Spectral Galerkin proper orthogonal decomposition method for Brusselator model*,  
    **Applied Numerical Mathematics**, 2026, 221: 80–107.
+
+3. **Shuaifei Hu**, Guomei Zhao and An Rong,  
+   *Temporal convergence of extrapolated BDF-2 scheme for the Maxwell-Landau-Lifshitz equations*,  
+   **Computers & Mathematics with Applications**, 119 (2022), 278–287.
+
+4. Guomei Zhao, **Shuaifei Hu**,  
+   *Temporal error analysis of an unconditionally energy stable second-order BDF scheme for the square phase-field crystal model*,  
+   **Applied Numerical Mathematics**, 202 (2024), 222–245.
 
 ## 🧮即将见面
