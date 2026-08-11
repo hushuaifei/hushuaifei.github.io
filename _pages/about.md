@@ -31,7 +31,7 @@ redirect_from:
 
 1. **Shuaifei Hu**, Yujian Jiao, Desong Kong and Li-Lian Wang,  
    *Solving PDEs on surfaces of pipe geometries using new coordinate transformations and high-order compact finite differences*,  
-   **Journal of Scientific Computing**, 2026, 107: 9. [📄 PDF](../files/Hu_JSC_2026.pdf)
+   **Journal of Scientific Computing**, 2026, 107: 9. [📄 PDF](../files/HuJiaoKongWang_JSC_2026.pdf)
 
 2. Yujian Jiao, **Shuaifei Hu** and Xiaoxuan Qi,  
    *Spectral Galerkin proper orthogonal decomposition method for Brusselator model*,  
