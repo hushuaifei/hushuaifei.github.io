@@ -6,7 +6,7 @@ permalink: /publication/2026-02-21-solving-pdes-on-surfaces-of-pipe-geometries
 excerpt: "We construct appropriate curvilinear coordinate systems tailored for pipes and their variants and develop efficient fourth-order compact finite difference methods."
 date: 2026-02-21
 venue: 'Journal of Scientific Computing'
-paperurl: '/files/Hu_JSC_2026.pdf'
+paperurl: '/files/HuJiaoKongWang_JSC_2026.pdf'
 bibtexurl: '/files/Hu_JSC_2026.bib'
 citation: 'Hu, S., Jiao, Y., Kong, D., and Wang, L.-L. (2026). "Solving PDEs on Surfaces of Pipe Geometries Using New Coordinate Transformations and High-Order Compact Finite Differences." <i>Journal of Scientific Computing</i>, 107: 9.'
 ---
