@@ -1,0 +1,14 @@
+---
+title: "Unconditional Energy Stability and Temporal Convergence of First-Order Numerical Scheme for the Square Phase-Field Crystal Model"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-unconditional-energy-stability-square-phase-field-crystal
+excerpt: "We propose and analyze a first-order backward Euler scheme for the square phase-field crystal model with unconditional energy stability."
+date: 2023-01-01
+venue: 'Computers & Mathematics with Applications'
+paperurl: '/files/Zhao_Zhu_Hu_CMA_2023.pdf'
+bibtexurl: '/files/Zhao_Zhu_Hu_CMA_2023.bib'
+citation: 'Zhao, G., Zhu, P., and Hu, S. (2023). "Unconditional Energy Stability and Temporal Convergence of First-Order Numerical Scheme for the Square Phase-Field Crystal Model." <i>Computers & Mathematics with Applications</i>, 143: 318--326.'
+---
+
+This paper presents a sixth-order nonlinear parabolic problem of the square phase-field crystal model. We first demonstrate the time-discrete backward Euler scheme with mass conservation and energy stability. Then, we prove the unconditionally optimal error estimates for the time-discrete backward Euler scheme. In the end, we present two-dimensional and three-dimensional numerical simulations to confirm the theoretical results.
