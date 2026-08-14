@@ -1,0 +1,14 @@
+---
+title: "Temporal Error Analysis of an Unconditionally Energy Stable Second-Order BDF Scheme for the Square Phase-Field Crystal Model"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-temporal-error-analysis-square-phase-field-crystal
+excerpt: "We propose and analyze an unconditionally energy stable second-order BDF scheme for the square phase-field crystal model."
+date: 2024-01-01
+venue: 'Applied Numerical Mathematics'
+paperurl: '/files/Zhao_Hu_ANM_2024.pdf'
+bibtexurl: '/files/Zhao_Hu_ANM_2024.bib'
+citation: 'Zhao, G. and Hu, S. (2024). "Temporal Error Analysis of an Unconditionally Energy Stable Second-Order BDF Scheme for the Square Phase-Field Crystal Model." <i>Applied Numerical Mathematics</i>, 202: 222--245.'
+---
+
+In this paper, we first propose and study the second-order time-discrete numerical scheme for the sixth-order nonlinear parabolic problem of the square phase-field crystal model. Then, we demonstrate the two-step backward differentiation formula (BDF-2) scheme with mass conservation and energy dissipation, where the higher order nonlinear term is treated implicitly. Moreover, a rigorous error analysis is presented and we prove the optimal second-order convergence rate $\mathcal{O}(\tau^2)$ in $H^1$-norm, where $\tau$ is the time step. Finally, some numerical results are provided to confirm our theoretical analysis.
