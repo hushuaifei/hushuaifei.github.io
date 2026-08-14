@@ -1,0 +1,14 @@
+---
+title: "Temporal Convergence of Extrapolated BDF-2 Scheme for the Maxwell-Landau-Lifshitz Equations"
+collection: publications
+category: manuscripts
+permalink: /publication/2022-temporal-convergence-extrapolated-bdf2-mll
+excerpt: "We establish optimal temporal error estimates for an extrapolated BDF-2 scheme for the Maxwell-Landau-Lifshitz equations."
+date: 2022-01-01
+venue: 'Computers & Mathematics with Applications'
+paperurl: '/files/Hu_Zhao_An_CMA_2022.pdf'
+bibtexurl: '/files/Hu_Zhao_An_CMA_2022.bib'
+citation: 'Hu, S., Zhao, G., and An, R. (2022). "Temporal Convergence of Extrapolated BDF-2 Scheme for the Maxwell-Landau-Lifshitz Equations." <i>Computers & Mathematics with Applications</i>, 119: 278--287.'
+---
+
+The Maxwell-Landau-Lifshitz equations are used to describe certain electromagnetic phenomena and are a strongly nonlinear parabolic system. This paper focuses on the optimal error estimates of a linearized second-order BDF semi-discrete scheme for the numerical approximation of the solution to the Maxwell-Landau-Lifshitz equations. The proposed algorithm is a semi-implicit scheme by using the extrapolation technique and the implicit-explicit method to linearize the nonlinear terms. Furthermore, the second-order temporal convergence rate $\mathcal{O}(\tau^2)$ is derived, where $\tau$ is the time step size. Finally, numerical experiments are presented to confirm the theoretical result.
