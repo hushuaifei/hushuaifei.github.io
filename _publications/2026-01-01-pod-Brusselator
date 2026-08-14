@@ -1,0 +1,14 @@
+---
+title: "Spectral Galerkin Proper Orthogonal Decomposition Method for Brusselator Model"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-spectral-galerkin-proper-orthogonal-decomposition-brusselator
+excerpt: "We develop a spectral Galerkin proper orthogonal decomposition method for the two-dimensional Brusselator model."
+date: 2026-01-01
+venue: 'Applied Numerical Mathematics'
+paperurl: '/files/Jiao_Hu_ANM_2026.pdf'
+bibtexurl: '/files/Jiao_Hu_ANM_2026.bib'
+citation: 'Jiao, Y., Hu, S., and Qi, X. (2026). "Spectral Galerkin Proper Orthogonal Decomposition Method for Brusselator Model." <i>Applied Numerical Mathematics</i>, 221: 80--107.'
+---
+
+The Brusselator model is a nonlinear reaction-diffusion system that is widely used in the applied sciences. In this study, we investigate a spectral Galerkin proper orthogonal decomposition (SG-POD) method for the two-dimensional Brusselator model subject to homogeneous boundary conditions. We propose a spectral Galerkin (SG) method based on generalized Jacobi polynomials, combined with the Crank--Nicolson scheme for time discretization. We establish the boundedness, generalized stability, and convergence of the proposed method. Furthermore, we develop a SG-POD scheme for the Brusselator model and analyze its stability and convergence. Extensive numerical experiments demonstrate the efficiency of the proposed scheme and show excellent agreement with the theoretical results. The SG-POD method achieves spectral accuracy in space while significantly reducing computational time without sacrificing accuracy.
