@@ -9,37 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 计算数学博士，上海师范大学，2023--2026
+  * 导师：焦裕建
+* 数学硕士，温州大学，2020--2023
+  * 导师：安荣
+* 数学与应用数学学士，安阳师范学院，2015--2019
 
-Work experience
+工作经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2026年8月至今：数学教师
+  * 平顶山学院
+  * 主要从事数学教学与科研工作
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+研究方向
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 偏微分方程数值解
+* 有限差分方法
+* 有限元方法
+* 谱方法
+* 数值分析与科学计算
 
 Publications
 ======
